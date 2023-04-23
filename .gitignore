@@ -1,0 +1,7 @@
+configs.json
+node_modules/
+*.sublime*
+ideas.js
+.env
+npm-debug.log
+package-lock.json
